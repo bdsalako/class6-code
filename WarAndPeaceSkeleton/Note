@@ -1,0 +1,7 @@
+Dear Professor.
+
+I couldn't finished this project at the stipulated time. However I am happy I can arrive at this little commit. I will 
+continue with the project. There are still some errors in the program, like removing each card from the deck at each round.
+I defined a method called "is_it_usedCard" that return a boolean value but I could not use it because of time and limited
+java knowledge. In addition, I have a little proble with when the two player pick same card, I will research more on it to perfect it.
+Thank you.
